@@ -1,0 +1,7 @@
+streamlit == 1.43.2
+sentence-transformers == 4.1.0
+faiss-cpu == 1.11.0
+scikit-learn == 1.6.1
+geopy == 2.4.1
+openrouteservice == 2.3.3
+numpy == 2.1.3
