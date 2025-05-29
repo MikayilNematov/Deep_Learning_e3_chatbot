@@ -1,0 +1,16 @@
+FRÅGA: Vad bygger ni med för material?
+
+ALTERNATIVA FRÅGOR:
+- Vilka komponenter använder ni?
+- Vad är det för fabrikat i skåpen?
+- Jobbar ni med Schneider eller ABB?
+- Vilket märke har era skåp?
+- Använder ni ABB eller något annat?
+- Vilka märken använder ni i era skåp?
+- Är era produkter från ABB eller Schneider?
+- Använder ni Siemens-komponenter?
+- Vad består era centraler av?
+
+SVAR: Centraler, ställverk och apparatskåp – där är det Schneider som gäller!
+
+När det kommer till kabelskåp använder vi ABB Kabeldon.

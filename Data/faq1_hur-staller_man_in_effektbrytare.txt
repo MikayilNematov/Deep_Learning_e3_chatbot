@@ -1,0 +1,38 @@
+FRÅGA: Hur ställer man in effektbrytare?
+
+ALTERNATIVA FRÅGOR:
+- Hur gör jag för att justera en effektbrytare?
+- Finns det en guide för inställning av effektbrytare?
+- Var hittar jag manual för effektbrytare?
+- Hur programmerar man Micrologic?
+- Hur funkar inställning av Micrologic X?
+- Hur konfigurerar jag en effektbrytare?
+- Hur programmerar jag en effektbrytare?
+- Hur ställer jag parametrarna på Micrologic?
+- Hur justerar man skyddsvärden på effektbrytare?
+- Hur ändrar jag inställningar på en effektbrytare?
+- Finns det instruktioner för Micrologic?
+- Var finns dokumentation för Micrologic X?
+- Hur använder man displayen på Micrologic?
+- Hur tolkar man larm i Micrologic X?
+
+SVAR: För att ställa in effektbrytare hänvisar vi till följande guider och manualer (i PDF-format):
+
+1. Förenklad guide för inställning av effektbrytare
+https://e3control.se/wp-content/uploads/forenklad-guide-for-installning-av-effektb-rytare-20211111.pdf  
+
+2. Förstå larmer och indikeringar i Micrologic X
+https://e3control.se/wp-content/uploads/forsta-larmer-och-indikeringar-i-micrologic-x.pdf  
+
+3. Installationsmanual för Micrologic2
+https://e3control.se/wp-content/uploads/inst-micrologic2.pdf
+  
+4. Snabbguide för manuell inställning av Micrologic X (version 3)
+https://e3control.se/wp-content/uploads/snabbguide-for-manuell-installning-av-micro-logic-x-v3.pdf
+  
+5. Installationsmanual för Micrologic 5/6
+https://e3control.se/wp-content/uploads/inst-micrologic5-6.pdf
+
+Du hittar dessa dokument på vår hemsida eller genom att kontakta support.
+https://e3control.se/faq/
+
